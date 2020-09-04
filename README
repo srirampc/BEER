@@ -1,0 +1,10 @@
+
+Code from the paper:
+
+    A novel approach to remove the batch effect of single-cell data. by
+    Zhang, Yu Wu, Weidong Tian*; Cell Discovery, 2019;
+    https://doi.org/10.1038/s41421-019-0114-x
+
+Coverted to a package from the code : https://github.com/jumphone/BEER
+
+Code downloaded on July 2020

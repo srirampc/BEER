@@ -1,0 +1,23 @@
+Package: BEER
+Title: Remove the batch effect of single-cell data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Feng",
+           family = "Zhang",
+           role = c("aut", "cre"),
+           email = "first.last@example.com")
+Description: Remove the batch effect of single-cell data. Code from the paper:
+    A novel approach to remove the batch effect of single-cell data. by
+    Zhang, Yu Wu, Weidong Tian*; Cell Discovery, 2019;
+    https://doi.org/10.1038/s41421-019-0114-x 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports:
+    sva,
+    limma,
+    stringi,
+    Seurat,
+    reticulate
