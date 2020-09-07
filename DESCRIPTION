@@ -1,6 +1,6 @@
 Package: BEER
 Title: Remove the batch effect of single-cell data
-Version: 0.0.0.9000
+Version: 0.1.7
 Authors@R: 
     person(given = "Feng",
            family = "Zhang",
